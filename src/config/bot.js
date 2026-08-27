@@ -25,9 +25,7 @@ export const botConfig = {
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "Made by Ayaan",     // this is what people actually see
-        type: 4,  name: " Made by Ayaan "
-       type: 0
-      // Custom
+        type: 4                    // Custom
       },
     ],
   },
